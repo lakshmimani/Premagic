@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="68px" height="68px" viewBox="0 0 68 68" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 54.1 (76490) - https://sketchapp.com -->
+    <title>premagic-p-1</title>
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <linearGradient x1="124.450285%" y1="-19.1333782%" x2="18.6377564%" y2="82.6541385%" id="linearGradient-1">
+            <stop stop-color="#FF957D" offset="0%"></stop>
+            <stop stop-color="#655EFF" offset="100%"></stop>
+        </linearGradient>
+    </defs>
+    <g id="premagic-p-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <circle id="Oval-Copy-39" fill="url(#linearGradient-1)" cx="34" cy="34" r="34"></circle>
+        <g id="aperture" transform="translate(18.000000, 18.000000)" stroke="#FFFFFF" stroke-linecap="round" stroke-linejoin="round" stroke-width="3.2">
+            <circle id="Oval" cx="16" cy="16" r="16"></circle>
+            <path d="M19.696,9.6 L28.88,25.504" id="Path"></path>
+            <path d="M12.304,9.6 L30.672,9.6" id="Path"></path>
+            <path d="M8.608,16 L17.792,0.096" id="Path"></path>
+            <path d="M12.304,22.4 L3.12,6.496" id="Path"></path>
+            <path d="M19.696,22.4 L1.328,22.4" id="Path"></path>
+            <path d="M23.392,16 L14.208,31.904" id="Path"></path>
+        </g>
+    </g>
+</svg>

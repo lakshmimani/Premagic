@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="68px" height="68px" viewBox="0 0 68 68" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 54.1 (76490) - https://sketchapp.com -->
+    <title>premagic-p-6</title>
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <linearGradient x1="124.450285%" y1="-19.1333782%" x2="18.6377564%" y2="82.6541385%" id="linearGradient-1">
+            <stop stop-color="#FF957D" offset="0%"></stop>
+            <stop stop-color="#655EFF" offset="100%"></stop>
+        </linearGradient>
+    </defs>
+    <g id="premagic-p-6" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <circle id="Oval-Copy-39" fill="url(#linearGradient-1)" cx="34" cy="34" r="34"></circle>
+        <g id="help-circle" transform="translate(18.000000, 18.000000)">
+            <circle id="Oval" stroke="#FFFFFF" stroke-width="3.2" stroke-linecap="round" stroke-linejoin="round" cx="16" cy="16" r="16"></circle>
+            <path d="M9.44,12.4736 L15.3792,12.4736 C15.2512,11.68 14.944,11.0656 14.432,10.6304 C13.7664,10.0672 12.8192,9.8112 11.5648,9.8112 L8.8256,9.8112 L9.3888,8.1216 L21.5488,8.1216 L20.9856,9.8112 L17.4272,9.8112 C17.9648,10.528 18.2976,11.424 18.4,12.4736 L21.5744,12.4736 L21.0112,14.1632 L18.3488,14.1632 C18.1952,15.0336 17.8112,15.8016 17.248,16.416 C16.4288,17.2352 15.3536,17.7984 13.9968,18.1056 C14.2016,18.2592 14.5856,18.72 15.1488,19.4368 L20.6784,26.4 L16.608,26.4 L12.0256,20.3584 C11.616,19.7952 11.1808,19.3856 10.72,19.0784 C10.208,18.72 9.6448,18.5408 9.0816,18.5408 L9.0816,16.544 L10.6688,16.544 C12.2816,16.544 13.4848,16.2624 14.2784,15.6992 C14.816,15.3152 15.1744,14.8032 15.328,14.1632 L8.8768,14.1632 L9.44,12.4736 Z" id="₹" fill="#FFFFFF" fill-rule="nonzero"></path>
+        </g>
+    </g>
+</svg>

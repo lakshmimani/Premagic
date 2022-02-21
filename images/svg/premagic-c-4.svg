@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="68px" height="68px" viewBox="0 0 68 68" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 54.1 (76490) - https://sketchapp.com -->
+    <title>premagic-c-4</title>
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <linearGradient x1="124.450285%" y1="-19.1333782%" x2="18.6377564%" y2="82.6541385%" id="linearGradient-1">
+            <stop stop-color="#FF957D" offset="0%"></stop>
+            <stop stop-color="#655EFF" offset="100%"></stop>
+        </linearGradient>
+    </defs>
+    <g id="premagic-c-4" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <circle id="Oval-Copy-39" fill="url(#linearGradient-1)" cx="34" cy="34" r="34"></circle>
+        <circle id="Oval" stroke="#FFFFFF" fill="#FFFFFF" cx="34" cy="42" r="3"></circle>
+        <g id="smartphone" transform="translate(23.000000, 18.000000)" stroke="#FFFFFF" stroke-linecap="round" stroke-linejoin="round">
+            <rect id="Rectangle" stroke-width="3.2" x="0" y="0" width="22" height="32" rx="3.2"></rect>
+            <path d="M11,25.6 L11,25.6" id="Path" stroke-width="8"></path>
+        </g>
+    </g>
+</svg>

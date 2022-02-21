@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="68px" height="68px" viewBox="0 0 68 68" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 54.1 (76490) - https://sketchapp.com -->
+    <title>premagic-p-2</title>
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <linearGradient x1="124.450285%" y1="-19.1333782%" x2="18.6377564%" y2="82.6541385%" id="linearGradient-1">
+            <stop stop-color="#FF957D" offset="0%"></stop>
+            <stop stop-color="#655EFF" offset="100%"></stop>
+        </linearGradient>
+    </defs>
+    <g id="premagic-p-2" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <circle id="Oval-Copy-39" fill="url(#linearGradient-1)" cx="34" cy="34" r="34"></circle>
+        <g id="upload-cloud" transform="translate(17.000000, 20.000000)" stroke="#FFFFFF" stroke-linecap="round" stroke-linejoin="round" stroke-width="3.2">
+            <polyline id="Path" points="24.7391304 20.9444444 18.3043478 14.5 11.8695652 20.9444444"></polyline>
+            <path d="M18.3043478,14.5 L18.3043478,29" id="Path"></path>
+            <path d="M31.8013043,24.795 C35.0289718,23.0327273 36.6529265,19.3031437 35.7461593,15.7352238 C34.8393921,12.1673039 31.6326788,9.66909743 27.9565217,9.66666667 L25.9295652,9.66666667 C24.5960871,4.50114601 20.2226068,0.692416467 14.9296317,0.0871626611 C9.63665664,-0.518091145 4.51846814,2.2052623 2.05664962,6.93678928 C-0.405168906,11.6683162 0.298344372,17.4298104 3.82608696,21.4277778" id="Path"></path>
+            <polyline id="Path" points="24.7391304 20.9444444 18.3043478 14.5 11.8695652 20.9444444"></polyline>
+        </g>
+    </g>
+</svg>
